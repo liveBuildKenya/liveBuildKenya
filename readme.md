@@ -1,8 +1,5 @@
 ### Hi there, I'm Mungai Ezra - aka liveBuildKenya 👋
 
-<img src="https://storage.live.com/Users/-3266522617676019613/MyProfile/ExpressionProfile/ProfilePhoto:Win8Static,UserTileMedium,UserTileStatic" alt="profile-image" width="150" style="border-radius: 50%;"/>
-
-
 ### Connect with me:
 
 [<img align="left" alt="liveBuildKenya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ezra_mungai)
