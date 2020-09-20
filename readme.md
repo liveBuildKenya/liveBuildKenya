@@ -5,8 +5,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="liveBuildKenya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ezra_mungai]
-[<img align="left" alt="liveBuildKenya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ezra-mungai-494892a4]
+[<img align="left" alt="liveBuildKenya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ezra_mungai)
+[<img align="left" alt="liveBuildKenya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ezra-mungai-494892a4)
 
 <br />
 
