@@ -1,15 +1,7 @@
 ### Hi there, I'm Mungai Ezra - aka liveBuildKenya 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+[<img src="https://storage.live.com/Users/-3266522617676019613/MyProfile/ExpressionProfile/ProfilePhoto:Win8Static,UserTileMedium,UserTileStatic" alt="profile-image" width="150"  style="border-radius: 50%"/>]
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-[<img src="https://storage.live.com/Users/-3266522617676019613/MyProfile/ExpressionProfile/ProfilePhoto:Win8Static,UserTileMedium,UserTileStatic" alt="profile-image" width="350" />]
 
 ### Connect with me:
 
