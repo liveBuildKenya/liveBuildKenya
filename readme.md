@@ -1,7 +1,7 @@
 ### Introduction
-👋 Hi, I am Ezra Mungai; a software developer focused on Development Operations (DevOps).
+👋 Hi, I am Ezra Mungai; a software developer focused on Development Operations (DevOps)
 
-[<img align="left" alt="location-pin" width="22px" src="https://github.com/heremaps/here-icons/blob/master/icons/map-view/SVG/map-marker_outline_24px.svg" />](Nairobi, Kenya)
+<img align="left" alt="location-pin" width="22px" src="https://github.com/heremaps/here-icons/blob/master/icons/map-view/SVG/map-marker_outline_24px.svg" /> Nairobi, Kenya
  
 ### Connect with me:
 
