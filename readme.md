@@ -1,5 +1,6 @@
-### Hi there, I'm Mungai Ezra - aka liveBuildKenya 👋
-
+### Instroduction
+👋 Hi, I am Ezra Mungai; a software developer focused on Development Operations (DevOps).
+ 
 ### Connect with me:
 
 [<img align="left" alt="liveBuildKenya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ezra_mungai)
