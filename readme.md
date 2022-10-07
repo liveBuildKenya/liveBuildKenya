@@ -1,14 +1,9 @@
 ### Introduction
 👋 Hi, I am Ezra Mungai; a software developer focused on Development Operations (DevOps)
 
-<div style="display:flex; flex-direction:row;">
-    <div>
-        <img align="left" alt="location-pin" width="22px" src="https://github.com/heremaps/here-icons/blob/master/icons/map-view/SVG/map-marker_outline_24px.svg" /> Nairobi, Kenya
-    </div>
-    <div>
-        <img align="left" alt="terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 7 years experience
-    </div>
-</div>
+<img align="left" alt="location-pin" width="22px" src="https://github.com/heremaps/here-icons/blob/master/icons/map-view/SVG/map-marker_outline_24px.svg" /> Nairobi, Kenya
+
+<img align="left" alt="terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 7 years experience
 
 ### Connect with me:
 
