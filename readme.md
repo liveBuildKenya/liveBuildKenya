@@ -1,9 +1,9 @@
 ### Introduction
-👋 Hi, I am Ezra Mungai; a software developer focused on Development Operations (DevOps)
+👋 Hi, I am Ezra Mungai; a development operations engineer; DevOps Engineer
 
 <img align="left" alt="location-pin" width="22px" src="./assets/location-dot-solid.svg" /> Nairobi, Kenya
 
-<img align="left" alt="terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 7 years experience
+<img align="left" alt="terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 9 years experience
 
 ### Connect with me:
 
